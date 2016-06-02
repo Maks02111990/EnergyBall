@@ -1,0 +1,11 @@
+*.suo
+**/Library
+**/Obj
+**/Temp
+*.apk
+*.xap
+*.ipa
+*.bar
+**/build
+/xcode_prebuild
+*.DS_Store
